@@ -1,0 +1,1 @@
+S'il vous plait changer les extensions des ficheirs contenus dans le dossier "js" en ".js" pour que les scripts javascript fonctionnent 
